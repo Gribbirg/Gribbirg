@@ -1,6 +1,7 @@
 # Hi, I'm Alexander Gribkov
 
-### Student of RTU MIREA 
+- Student of **RTU MIREA**;
+- Beginner **Mobile app** developer. 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gribbirg&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gribbirg&theme=github_dark)
