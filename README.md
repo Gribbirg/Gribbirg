@@ -1,8 +1,8 @@
 # Hi, I'm Alexander Gribkov
 
-- **RTU MIREA** student;
-- **Yandex summer school** student;
-- **Android** developer. 
+- **RTU MIREA** student
+- **Yandex summer school** student
+- **Android** developer
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gribbirg&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gribbirg&theme=github_dark)
