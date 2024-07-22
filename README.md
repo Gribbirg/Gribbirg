@@ -4,8 +4,6 @@
 - **Yandex summer school** student
 - **Android** developer
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gribbirg&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gribbirg&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gribbirg&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gribbirg&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gribbirg&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gribbirg&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gribbirg&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
